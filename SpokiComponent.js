@@ -25,7 +25,7 @@ const SpokiComponent = () => {
   });
 
   const pickImage = () => {
-    // Реализуйте выбор фотографии, используя библиотеку для выбора изображений (например, react-native-image-picker)
+    
   };
 
   const login = async () => {
@@ -91,8 +91,7 @@ const SpokiComponent = () => {
 };
 
 const styles = StyleSheet.create({
-  // Остальные стили оставляются без изменений
-  // ...
+ 
 });
 
 export default SpokiComponent;
